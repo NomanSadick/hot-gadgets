@@ -40,7 +40,18 @@
     padding-bottom: 50px;
     
 }
-
+h3:after{
+    content:'';
+    background:black;
+    width:10%;
+    height:3px;
+    display:block;
+    margin: 0 auto;
+    border: 2px solid darkgoldenrod;
+    border-radius: 25px;
+     
+     
+ }
 
 
 
