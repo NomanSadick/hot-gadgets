@@ -1,6 +1,9 @@
 .container{
     margin-bottom: 100px;
 }
+.navbar-nav{
+    padding-left: 450px;
+}
 .buy-now-button{
     background-image: linear-gradient(to bottom, #000 0%, #000 100% );
     color: #fff;
