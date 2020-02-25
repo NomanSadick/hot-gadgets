@@ -15,16 +15,7 @@
 .card-deck{
     text-align: center;
 }
-.h1, h1 {
-    font-size: 2.5rem;
-    margin: 0px 0px 0px 0px;
-    padding-bottom: 0px;
-}
-.h2, h2 {
-    font-size: 2rem;
-    color: olive;
-    padding-bottom: 15px;
-}
+
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray ;
@@ -52,6 +43,23 @@ h3:after{
      
      
  }
+ h5{
+     text-align: center;
+ }
+ .float-left{
+    font-size: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+ }
+ .float-right{
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    color: darkgoldenrod;
+ }
+ footer{
+    text-align: center;
+}
 
 
 
